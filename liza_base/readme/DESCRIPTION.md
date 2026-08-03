@@ -16,7 +16,7 @@ Quickly evaluate the financial health of companies with key indicators such as c
 
 Keep your company records consistently updated. Never miss a change of address, a decrease in credit limit, financial warnings, or other critical updates.
 
-#### Coverage across Belgium, the Netherlands and Luxembourg
+#### Coverage across Belgium, the Netherlands, France and Luxembourg
 Access reliable company information for companies operating in the Benelux region.
 
 

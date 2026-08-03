@@ -17,7 +17,7 @@ This module comes with 2 security groups.
 ## Usage
 
 Once your user has the correct permissions, open a partner that has a
-belgian VAT number and click on the Liza button.
+dutch/french/belgian/luxembourg VAT number and click on the Liza button.
 
 ![doc_on_new_partner.png](../static/description/doc_on_new_partner.png)
 
